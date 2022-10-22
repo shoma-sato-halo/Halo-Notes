@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes.</string>
+    <string name="btn_cancel_text">キャンセル</string>
+    <string name="btn_ok_text">OK</string>
+    <string name="btn_restore_text">復元</string>
+    <string name="btn_select_all_text">全て選択</string>
+    <string name="chooserTitle">共有</string>
+    <string name="et_search_hint">検索</string>
+    <string name="et_title_and_note_hint">なし</string>
+    <string name="fab_add_content_description">メモ作成ダイアログを開く</string>
+    <string name="ib_back_content_description">戻る</string>
+    <string name="ib_blue_tag_content_description">青</string>
+    <string name="ib_clear_content_description">選択を解除</string>
+    <string name="ib_delete_content_description">削除</string>
+    <string name="ib_delete_forever_content_description">完全な削除</string>
+    <string name="ib_gray_tag_content_description">灰</string>
+    <string name="ib_green_tag_content_description">緑</string>
+    <string name="ib_menu_content_description">メニュー</string>
+    <string name="ib_privacy_policy_content_description">プライバシーポリシー</string>
+    <string name="ib_purple_tag_content_description">紫</string>
+    <string name="ib_red_tag_content_description">赤</string>
+    <string name="ib_restore_content_description">復元</string>
+    <string name="ib_search_content_description">検索</string>
+    <string name="ib_share_content_description">共有</string>
+    <string name="ib_twitter_content_description">Halo_Software twitter</string>
+    <string name="ib_yellow_tag_content_description">黄</string>
+    <string name="initial_data_1_title">初めに</string>
+    <string name="initial_data_1_note">アプリをインストールして頂き誠にありがとうございます。何かお気づきの点ががございましたら是非、レビューにてお知らせください。</string>
+    <string name="initial_data_2_title">Twitterの宣伝</string>
+    <string name="initial_data_2_note">Halo_SoftwareではTwitterも運営しております。過去のリリースノートも全てこちらにございますので、よろしければ、フォローよろしくお願い致します。\n\n日本語版\nhttps://twitter.com/Halo_SoftwareJP?t=VgY0Tj9foMvXfSRjZPr0tA&amp;s=33\n英語版\nhttps://twitter.com/Halo_Software?t=SpGXFIgv86xG-kk2mj0aJQ&amp;s=33</string>
+    <string name="initial_data_3_title">リリースノート 1.1.0 (2022/10/01)</string>
+    <string name="initial_data_3_note">・メモの選択時（メモの長押しで可能）の上部メニューのデザイン改善と「全て選択」機能の追加\n・アイコンのデザイン改善\nを行いました。近いうちにラベル作成機能も追加する予定です。今後ともHalo Notes.をよろしくお願い致します。</string>
+    <string name="initial_data_4_title">リリースノート 1.1.1 (2022/10/05)</string>
+    <string name="initial_data_4_note">・特定の条件下において、本来「タイトル」と出るべき箇所に「メモ」と表示される\n・画面をスクロールした際、ボタンや広告が邪魔となりメモが一部見えずらくなってしまう\nこれら二つのバグを修正致しました。ご迷惑をおかけした皆様には深くお詫び申し上げます。</string>
+    <string name="initial_data_5_title">リリースノート 1.2.0 (2022/10/07)</string>
+    <string name="initial_data_5_note">タブレット端末において、\n・レイアウトが崩れる問題の解決\n・二列表示による視認性の向上\nを行いました。前回に続き問題が多くなっており、大変申し訳ございません。</string>
+    <string name="iv_color_tag_content_description">カラータグ</string>
+    <string name="tv_created_hint_text">作成:</string>
+    <string name="twitter_url">https://twitter.com/Halo_SoftwareJP?t=VgY0Tj9foMvXfSRjZPr0tA&amp;s=33</string>
+    <string name="iv_or_ib_color_tag_outline_content_description">カラータグの外枠</string>
+    <string name="menu_notes">メモ</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_trash">ゴミ箱</string>
+    <string name="nav_header_title">メニュー</string>
+    <string-array name="sp_receive_settings_entries">
+        <item>全て受け取る</item>
+        <item>バグ修正の通知以外受け取る</item>
+        <item>大きなアップデートの通知のみ受け取る</item>
+        <item>全て受け取らない</item>
+    </string-array>
+    <string name="title_delete_confirmation_dialog">メモを完全に削除しますか？</string>
+    <string name="tv_delete_hint_text">削除予定:</string>
+    <string name="tv_edited_hint_text">編集:</string>
+    <string name="tv_no_notes_text">メモがありません\nメモを作成してください</string>
+    <string name="tv_no_notes_in_trash_text">ゴミ箱にメモはありません</string>
+    <string name="tv_note_hint_text">メモ</string>
+    <string name="tv_receive_settings_text">リリースノートの受信設定</string>
+    <string name="tv_title_hint_text">タイトル</string>
+</resources>

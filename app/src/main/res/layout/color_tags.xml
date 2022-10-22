@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageButton
+        android:id="@+id/ib_red_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:contentDescription="@string/ib_red_tag_content_description"
+        android:src="@drawable/ic_baseline_brightness_1_40"
+        app:tint="@color/red" />
+
+    <ImageButton
+        android:id="@+id/ib_yellow_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:contentDescription="@string/ib_yellow_tag_content_description"
+        android:src="@drawable/ic_baseline_brightness_1_40"
+        app:tint="@color/yellow"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/ib_green_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:contentDescription="@string/ib_green_tag_content_description"
+        android:src="@drawable/ic_baseline_brightness_1_40"
+        app:tint="@color/green"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/ib_blue_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:contentDescription="@string/ib_blue_tag_content_description"
+        android:src="@drawable/ic_baseline_brightness_1_40"
+        app:tint="@color/blue"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/ib_purple_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:contentDescription="@string/ib_purple_tag_content_description"
+        android:src="@drawable/ic_baseline_brightness_1_40"
+        app:tint="@color/purple"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/ib_gray_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:contentDescription="@string/ib_gray_tag_content_description"
+        android:src="@drawable/ic_baseline_brightness_1_40"
+        app:tint="@color/gray"
+        tools:ignore="TouchTargetSizeCheck" />
+</LinearLayout>

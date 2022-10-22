@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Primary colors
+    <color name="dim_gray">#FF696969</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_steel_blue">#FFB0C4DE</color>
+
+    //Tag colors #d9333f
+    <color name="red">#FFCC7575</color>
+    <color name="yellow">#FFB19210</color>
+    <color name="green">#FF849444</color>
+    <color name="blue">#FF669999</color>
+    <color name="purple">#FFA084A0</color>
+    <color name="gray">#FF8B8D92</color>
+
+    //Custom colors
+    <color name="nearly_black">#FF424242</color>
+    <color name="nearly_white">#FFE0E0E0</color>
+    <color name="steel_blue">#FF0277BD</color>
+    <color name="transparent">#00000000</color>
+</resources>

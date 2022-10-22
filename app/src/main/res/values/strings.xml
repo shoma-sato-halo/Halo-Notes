@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Notes.</string>
+
+    //java
+    //customAdapter
+    //NotesAdapter
+    <string name="chooserTitle">Share</string>
+
+    //TrashAdapter
+    /string name="chooserTitle"/
+
+    //dialog
+    //DeleteConfirmationDialogFragment
+    <string name="title_delete_confirmation_dialog">Delete notes forever?</string>
+
+    //MainActivity
+    <string name="twitter_url">https://twitter.com/Halo_Software?t=SpGXFIgv86xG-kk2mj0aJQ&amp;s=33</string>
+
+    //InsertingInitialData
+    <string name="initial_data_1_title">At first</string>
+    <string name="initial_data_1_note">Thank you for installing the app. Please let me know in the review if there is any point that you notice.</string>
+    <string name="initial_data_2_title">Advertising of Twitter</string>
+    <string name="initial_data_2_note">Halo_Software also operates Twitter. All past release notes are also available here, so please follow us if you like.\n\nEnglish\nhttps://twitter.com/Halo_Software?t=SpGXFIgv86xG-kk2mj0aJQ&amp;s=33\nJapanese\nhttps://twitter.com/Halo_SoftwareJP?t=VgY0Tj9foMvXfSRjZPr0tA&amp;s=33</string>
+    <string name="initial_data_3_title">Release notes 1.1.0 (10/01/2022)</string>
+    <string name="initial_data_3_note">・Improved the design of the upper menu when selecting a note (possible by long-pressing the note) and added the "Select All" function.\n・Improved the design of the icon.\nWe plan to add labeling functionality in the near future. Thank you for your continued support of Halo Notes.</string>
+    <string name="initial_data_4_title">Release notes 1.1.1 (10/05/2022)</string>
+    <string name="initial_data_4_note">・Under certain conditions, "Note" is displayed where "Title" should appear.\n・When scrolling the screen, buttons and advertisements get in the way and make it difficult to see some notes.\nWe fixed these two bugs. We sincerely apologize for any inconvenience caused.</string>
+    <string name="initial_data_5_title">Release notes 1.2.0 (10/07/2022)</string>
+    <string name="initial_data_5_note">On tablet devices,\n・Solving the problem of the layout collapsing\n・Improved visibility by two-row display\nWe did these. We are very sorry that there are many problems following on from the last time.</string>
+
+    //res
+    //layout
+    //activity_main
+    <string name="ib_menu_content_description">Menu</string>
+    <string name="ib_search_content_description">Search</string>
+    <string name="ib_privacy_policy_content_description">Privacy policy</string>
+    <string name="ib_twitter_content_description">Halo_Software twitter</string>
+
+    //color_tags
+    <string name="ib_red_tag_content_description">Red</string>
+    <string name="ib_yellow_tag_content_description">Yellow</string>
+    <string name="ib_green_tag_content_description">Green</string>
+    <string name="ib_blue_tag_content_description">Blue</string>
+    <string name="ib_purple_tag_content_description">Purple</string>
+    <string name="ib_gray_tag_content_description">Gray</string>
+
+    //dialog_editing_a_note
+    <string name="tv_created_hint_text">Created:</string>
+    <string name="tv_edited_hint_text">Edited:</string>
+    <string name="iv_or_ib_color_tag_outline_content_description">Color tag outline</string>
+    <string name="iv_color_tag_content_description">Color tag</string>
+    <string name="ib_delete_content_description">Delete</string>
+    <string name="btn_restore_text">Restore</string>
+
+    //dialog_taking_a_note
+    /string name="iv_ib_color_tag_outline_content_description"/
+    /string name="iv_color_tag_content_description"/
+
+    //fragment_notes
+    <string name="fab_add_content_description">Open the note-taking dialog</string>
+    <string name="tv_no_notes_text">No notes\nPlease take a note</string>
+    <string name="et_search_hint">Search</string>
+
+    //fragment_search
+    <string name="ib_back_content_description">Back</string>
+
+    //fragment_settings
+    <string name="tv_receive_settings_text">Preferences for receiving release notes</string>
+    <string-array name="sp_receive_settings_entries">
+        <item>Receive all</item>
+        <item>Receive notifications other than bug fixes</item>
+        <item>Only receive notifications for major updates</item>
+        <item>Do not receive all</item>
+    </string-array>
+    
+    //fragment_trash
+    <string name="tv_no_notes_in_trash_text">No notes in Trash</string>
+
+    //frame_dialog_taking_or_editing_a_note
+    <string name="tv_title_hint_text">Title</string>
+    <string name="et_title_and_note_hint">None</string>
+    <string name="tv_note_hint_text">Note</string>
+    <string name="btn_cancel_text">Cancel</string>
+    <string name="btn_ok_text">OK</string>
+
+    //frame_rv_row
+    /string name="iv_ib_color_tag_outline_content_description"/
+    /string name="iv_color_tag_content_description"/
+    /string name="tv_created_hint_text"/
+    /string name="tv_edited_hint_text"/
+    /string name="chooserTitle"/
+    /string name="tv_title_hint_text"/
+    /string name="tv_note_hint_text"/
+    
+    //menu_action_mode_fragment_notes
+    <string name="ib_clear_content_description">Clear selections</string>
+    <string name="btn_select_all_text">Select all</string>
+    <string name="ib_share_content_description">Share</string>
+
+    //menu_action_mode_fragment_trash
+    /string name="ib_clear_content_description"/
+    /string name="btn_select_all_text"/
+    <string name="ib_restore_content_description">Restore</string>
+    /string name="ib_share_content_description"/
+
+    //nav_header_main.xml
+    <string name="nav_header_title">Menu</string>
+
+    //note_row
+    /string name="ib_delete_content_description"/
+
+    //trash_row
+    <string name="ib_delete_forever_content_description">Delete forever</string>
+    <string name="tv_delete_hint_text">Will delete:</string>
+    /string name="btn_restore_text"/
+
+    //menu
+    //activity_main_drawer
+    <string name="menu_notes">Notes</string>
+    <string name="menu_trash">Trash</string>
+    <string name="menu_settings">Settings</string>
+
+    //navigation
+    //mobile_navigation
+    /string name="menu_notes"/
+    /string name="menu_trash"/
+</resources>

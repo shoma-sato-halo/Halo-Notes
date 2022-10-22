@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "163554375821",
+    "project_id": "halo-notes-f646b",
+    "storage_bucket": "halo-notes-f646b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163554375821:android:80bc11fbe5cd99d269cac4",
+        "android_client_info": {
+          "package_name": "com.halo_sf.android.halo_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163554375821-f38espc11nfo4sl3mtm02qget58qb89e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBI22JunFN122FEQJcs5PZb0s_4vx8QXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163554375821-f38espc11nfo4sl3mtm02qget58qb89e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163554375821:android:dc118979ac9a647769cac4",
+        "android_client_info": {
+          "package_name": "jp.halo_sf.android.halo_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163554375821-f38espc11nfo4sl3mtm02qget58qb89e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBI22JunFN122FEQJcs5PZb0s_4vx8QXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163554375821-f38espc11nfo4sl3mtm02qget58qb89e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
